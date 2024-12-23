@@ -53,12 +53,4 @@ Here are a few projects that showcase my expertise:
 
 ---
 
-
-## 📫 Let's Connect!
-- **Portfolio**: (#)
-- **LinkedIn**: (http://www.linkedin.com/in/o6erto)
-- **Email**: (mailto:osoko8919@gmail.com)
-
----
-
 **💡 Fun Fact:** _I’m always exploring new technologies and love combining data analytics with AI to uncover actionable insights!_
