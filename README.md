@@ -51,6 +51,4 @@ Here are a few projects that showcase my expertise:
    **Tech Stack**: Python, Power BI, DAX  
    [🔗 Live Demo](#) | [📂 Repository](#)
 
----
-
 **💡 Fun Fact:** _I’m always exploring new technologies and love combining data analytics with AI to uncover actionable insights!_
