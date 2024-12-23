@@ -1,4 +1,4 @@
-# 💻 Hi, I'm Obert! 👋
+# 💻 Hi, I'm oberto! 👋
 
 ## 🚀 About Me
 🎓 I am a graduate in **Software and Administration of Information Systems**, majoring in **Data Analytics and AI Engineering**.  
@@ -55,9 +55,9 @@ Here are a few projects that showcase my expertise:
 
 
 ## 📫 Let's Connect!
-- **Portfolio**: [Your Portfolio URL](#)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Portfolio**: (#)
+- **LinkedIn**: (http://www.linkedin.com/in/o6erto)
+- **Email**: (mailto:osoko8919@gmail.com)
 
 ---
 
