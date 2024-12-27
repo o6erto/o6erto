@@ -1,4 +1,4 @@
-# 💻 Hi, I'm oberto! 👋
+# 💻 Hi, I'm Obert! 👋
 
 ## 🚀 About Me
 🎓 I am a graduate in **Software and Administration of Information Systems**, majoring in **Data Analytics and AI Engineering**.  
